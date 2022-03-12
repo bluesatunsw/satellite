@@ -1,1 +1,2 @@
 # satellite
+Bluesat's CubeSat
