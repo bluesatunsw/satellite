@@ -1,2 +1,2 @@
 # satellite
-Bluesat's CubeSat
+Bluesat's CubeSat project.
