@@ -1,0 +1,337 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ba8e1171-1edc-4e81-b60a-3dcddad2c8ad")
+	(paper "A4")
+	(lib_symbols)
+	(text_box "Power Protections"
+		(exclude_from_sim no)
+		(at 63.5 52.07 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2c03b401-9155-4763-b6d5-96affae4ee2a")
+	)
+	(text_box "Power Loss capacitors/other mechanism"
+		(exclude_from_sim no)
+		(at 40.64 71.12 0)
+		(size 25.4 17.78)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3a7f4f06-e6ee-4a5f-b593-947175234b78")
+	)
+	(text_box "Status LEDS\n"
+		(exclude_from_sim no)
+		(at 218.44 91.44 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45c61d11-fa95-4a49-9567-7f98a8d84674")
+	)
+	(text_box "Motors"
+		(exclude_from_sim no)
+		(at 195.58 33.02 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "52480a4a-16e8-45e4-afb7-a5188d83e1eb")
+	)
+	(text_box "Battery Protection"
+		(exclude_from_sim no)
+		(at 48.26 53.34 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5b992413-567e-4307-8f7e-5d6cc65b891f")
+	)
+	(text_box "Display / UV Light masking / LCD Screen\n- if our light source is not already a display"
+		(exclude_from_sim no)
+		(at 116.84 15.24 0)
+		(size 43.18 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63324d3d-8118-438a-b784-d7b5b8b2ebfd")
+	)
+	(text_box "Programming/charging USB ports"
+		(exclude_from_sim no)
+		(at 218.44 104.14 0)
+		(size 25.4 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "75a6e86f-aa8f-4ec0-bf40-d3c118fcdf0a")
+	)
+	(text_box "UV Light Source"
+		(exclude_from_sim no)
+		(at 162.56 13.97 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "77be8f5b-593b-42e0-96f2-f21e343da5f9")
+	)
+	(text_box "Sensors"
+		(exclude_from_sim no)
+		(at 198.12 62.23 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7aeb8150-2b8e-44eb-a568-b909b2900498")
+	)
+	(text_box "Small camera modules\nSmall microphone module\nLighting just for the camera\n- isolated from rest of system if possible"
+		(exclude_from_sim no)
+		(at 114.3 157.48 0)
+		(size 58.42 15.24)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "80f28b91-287d-4014-9678-d38ad0007bcc")
+	)
+	(text_box "Microcontroller"
+		(exclude_from_sim no)
+		(at 139.7 58.42 0)
+		(size 22.86 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "87afd63c-9504-46ef-8b76-7855bba2518e")
+	)
+	(text_box "Battery"
+		(exclude_from_sim no)
+		(at 30.48 53.34 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "880b4642-dee3-416d-99cd-ce8391197ccf")
+	)
+	(text_box "Timestamping"
+		(exclude_from_sim no)
+		(at 213.36 46.99 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9d9ec32d-25a8-49a4-96b8-52fd61260472")
+	)
+	(text_box "Interface\n- low power\n- turning system off\n- engaging system\n\n- shipping pins (more robust than buttons in accidental triggers)\n- buttons"
+		(exclude_from_sim no)
+		(at 185.42 93.98 0)
+		(size 27.94 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc5b047e-bff8-4ccf-8a98-743d19d630be")
+	)
+	(text_box "Motor Protection"
+		(exclude_from_sim no)
+		(at 180.34 33.02 0)
+		(size 12.7 8.89)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ceaa0079-46c2-45ab-a070-536bd4187e40")
+	)
+	(text_box "Screens for more detailed information\n(optional)"
+		(exclude_from_sim no)
+		(at 218.44 116.84 0)
+		(size 25.4 15.24)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f148affb-cab6-432c-af5c-420e49968d9f")
+	)
+	(text_box "Non-volatile Storage\n(optional)"
+		(exclude_from_sim no)
+		(at 137.16 99.06 0)
+		(size 30.48 15.24)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f997491b-cd80-4552-a8d6-65e38f3a99ce")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
