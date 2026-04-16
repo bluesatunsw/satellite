@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.7*%
+%TF.CreationDate,2026-02-25T19:31:42+11:00*%
+%TF.ProjectId,vibe-board-reborne,76696265-2d62-46f6-9172-642d7265626f,rev?*%
+%TF.SameCoordinates,PX39c773aPY7b6b445*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.7) date 2026-02-25 19:31:42*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,3.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H2*%
+X4414214Y3414213D03*
+%TO.C,H1*%
+X24414214Y55858213D03*
+%TO.C,H3*%
+X44414214Y3414213D03*
+M02*
