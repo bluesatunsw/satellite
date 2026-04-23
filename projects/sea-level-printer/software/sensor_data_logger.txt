@@ -1,0 +1,67 @@
+SensorLogger
+
+// CONSTANTS
+SENSOR_ADDRESS  = 
+SAMPLE_INTERVAL = 
+
+
+init():
+    setup I2C connection to sensor at SENSOR_ADDRESS
+    if sensor does not respond:
+        enter FAULT
+    
+    setup SD card
+    if SD card does not initialise:
+        enter FAULT
+    
+    write CSV header to SD card
+    
+    enter IDLE
+
+
+idle():
+    do nothing
+    wait for tick
+    
+    if tick fires:
+        enter READ
+
+
+read():
+    request bytes from sensor
+    
+    if no response:
+        enter FAULT
+    
+    bytes = received bytes
+    enter PARSE(bytes)
+
+
+parse(bytes):
+    data = decoded bytes
+    
+    timestamp = HAL_GetTick()
+    
+    enter LOG(timestamp, data)
+
+
+log(timestamp, ax, ay, az, gx, gy, gz):
+    row = format as CSV:
+        timestamp, data
+    
+    write row to SD card
+    
+    if write fails:
+        enter FAULT
+    
+    enter IDLE
+
+
+fault():
+    flag error to error handler
+    idk
+
+
+BEGIN
+    init()
+END
