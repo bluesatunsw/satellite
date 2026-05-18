@@ -623,6 +623,10 @@
     [
       "f04d6d4d-893f-481c-80ab-cf099e01fc44",
       "BMS"
+    ],
+    [
+      "bf97f501-219e-4425-97cc-90b135185b0a",
+      "Fuel Gauge"
     ]
   ],
   "text_variables": {}
