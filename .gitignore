@@ -1,4 +1,4 @@
-# ROS Artifacts
+﻿# ROS Artifacts
 log/
 build/
 install/
@@ -9,8 +9,8 @@ compile_commands.json
 target/
 
 # KiCad
-fp-lib-table
-sym-lib-table
+# Not an issue if set up properly - J # fp-lib-table
+# Not an issue if set up properly - J # sym-lib-table
 *.bak
 *.lck
 *.kicad_prl
