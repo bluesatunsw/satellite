@@ -1,0 +1,256 @@
+(footprint "PQFN_5x6mm_E_DGS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -3.625 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cc576257-703f-44e0-9a78-d5c5913c8a6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "PQFN_5x6mm_E"
+		(at 0.025 3.825 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37c9bbf9-c6f8-46af-abc4-59269f757db8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/42/an-1136j.pdf?fileId=5546d46256fb43b301574c5f123f7bde"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7e562738-b043-44fb-8798-1663133ac15f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Infineon PQFN 5x6mm MOSFET package"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83dc4f44-145b-406b-af3e-2ce78100702b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -3.5 2.5) (xy -3 3) (xy -3.5 3)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "80d15ab4-4b4a-412d-8917-34f652084944")
+	)
+	(fp_rect
+		(start -0.9275 -2.13)
+		(end 0.625 -0.25)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "4dd45929-339c-4835-a0a3-a09d5dbd17ee")
+	)
+	(fp_rect
+		(start -0.9275 0.25)
+		(end 0.625 2.13)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "cf0cf93c-75e6-43e3-8f7f-845cc9cea8d4")
+	)
+	(fp_rect
+		(start 1.125 -2.13)
+		(end 2.6025 -0.25)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "84edd54f-24e0-4e23-bf9b-414c22a65916")
+	)
+	(fp_rect
+		(start 1.125 0.25)
+		(end 2.5925 2.13)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "bfd36eeb-c637-4e8b-82de-48f4d9d71cac")
+	)
+	(fp_rect
+		(start 2.375 -0.86)
+		(end 3.2525 -0.41)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "43098e1b-6185-4883-9703-42196b0a12e4")
+	)
+	(fp_rect
+		(start 2.375 0.41)
+		(end 3.2525 0.86)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "99570cd5-0ea2-46b6-ac32-0da76cba341c")
+	)
+	(fp_rect
+		(start 2.375 1.68)
+		(end 3.2525 2.13)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "36f69249-e892-42b5-a541-3fc9e10a288f")
+	)
+	(fp_rect
+		(start 2.5 -2.13)
+		(end 3.2525 -1.68)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "70babc11-118f-4c85-937f-7ccadb280b95")
+	)
+	(fp_rect
+		(start -3 -2.5)
+		(end 3 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b50aba4e-40bb-4a80-82c3-abe574eebdc4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.325 0.025 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8c68e9ce-6544-4631-b1ea-ba409aadcfd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 0.8375 0 180)
+		(size 3.53 4.26)
+		(layers "F.Cu" "F.Mask")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_rect
+				(start -2.415 1.68)
+				(end -1.755 2.13)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start -2.415 0.41)
+				(end -1.755 0.86)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start -2.415 -0.86)
+				(end -1.755 -0.41)
+				(width 0)
+				(fill yes)
+			)
+			(gr_rect
+				(start -2.415 -2.13)
+				(end -1.755 -1.68)
+				(width 0)
+				(fill yes)
+			)
+		)
+		(uuid "ebac81f1-6a47-4e9a-b518-def9d708adaf")
+	)
+	(pad "2" smd rect
+		(at -2.7075 1.905 180)
+		(size 1.08 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.03)
+		(uuid "071c0ebb-1727-4297-9775-3c5ec6be4f60")
+	)
+	(pad "3" smd rect
+		(at -2.7075 -1.905 180)
+		(size 1.08 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.03)
+		(uuid "b2478e23-2eb0-4a50-a855-6686efcdf31c")
+	)
+	(pad "3" smd rect
+		(at -2.7075 -0.635 180)
+		(size 1.08 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.03)
+		(uuid "3bce1799-98d2-48c7-83ef-2308b301e37b")
+	)
+	(pad "3" smd rect
+		(at -2.7075 0.635 180)
+		(size 1.08 0.45)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -0.03)
+		(uuid "2b8ba0c7-cac8-4ec3-a700-f2f0b15ceefe")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/PQFN-8-EP_6x5mm_P1.27mm_Generic.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
