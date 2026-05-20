@@ -6184,7 +6184,7 @@
 			(uuid "ca0042d1-a752-48fb-803b-b699a1eed15d")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR037")
 					(unit 1)
@@ -6263,7 +6263,7 @@
 			(uuid "18ac19da-cff9-4bc6-9c3f-3f7e4dc92453")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R1")
 					(unit 1)
@@ -6344,7 +6344,7 @@
 			(uuid "39b6420c-72c1-4a0b-8c18-c21ab40b072d")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C3")
 					(unit 1)
@@ -6448,7 +6448,7 @@
 			(uuid "15c027e6-e2e1-465e-a334-bc059708103d")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "U2")
 					(unit 1)
@@ -6529,7 +6529,7 @@
 			(uuid "4e42dbc0-3b23-404a-aed0-42b59712f530")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C4")
 					(unit 1)
@@ -6665,7 +6665,7 @@
 			(uuid "75eb25d6-4e5c-497b-93f7-f7d4e3df512b")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "U4")
 					(unit 1)
@@ -6743,7 +6743,7 @@
 			(uuid "188d831d-74d5-4598-956c-5095e9e8bb73")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR035")
 					(unit 1)
@@ -6822,7 +6822,7 @@
 			(uuid "81ddabd2-4d31-411e-98f4-72fd2ed9769b")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R8")
 					(unit 1)
@@ -6901,7 +6901,7 @@
 			(uuid "7eb40c44-fa40-43e5-9d45-359d08369687")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R5")
 					(unit 1)
@@ -6980,7 +6980,7 @@
 			(uuid "14ae66e8-b142-4f63-a215-dfe85fd1c8b1")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R11")
 					(unit 1)
@@ -7058,7 +7058,7 @@
 			(uuid "0b804d17-816d-4d23-afc9-fd9c893bb25e")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR033")
 					(unit 1)
@@ -7140,7 +7140,7 @@
 			(uuid "9af3f1c4-ebc9-4015-a353-a02f156b0097")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C5")
 					(unit 1)
@@ -7218,7 +7218,7 @@
 			(uuid "234070b3-b8d9-4136-8e81-bd5354438b6a")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR026")
 					(unit 1)
@@ -7296,7 +7296,7 @@
 			(uuid "5f349a02-6cea-472c-949c-082ffd8c5f84")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR03")
 					(unit 1)
@@ -7375,7 +7375,7 @@
 			(uuid "fa9882e5-d820-46ff-8535-55f77810b27a")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R6")
 					(unit 1)
@@ -7453,7 +7453,7 @@
 			(uuid "a7bca201-60c5-46e3-8b8f-962d1af09dba")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR04")
 					(unit 1)
@@ -7532,7 +7532,7 @@
 			(uuid "41dd2cd3-77dc-4d20-9b0d-dd382753ea0e")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R12")
 					(unit 1)
@@ -7632,7 +7632,7 @@
 			(uuid "14a7355f-542a-4ae4-bf17-5cc2979811b4")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "U5")
 					(unit 1)
@@ -7710,7 +7710,7 @@
 			(uuid "82e95d9d-429d-4d5c-95d3-0619aad7f860")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR039")
 					(unit 1)
@@ -7789,7 +7789,7 @@
 			(uuid "55ab75b1-4fca-4594-a00e-9ee6dd8951b3")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R10")
 					(unit 1)
@@ -7867,7 +7867,7 @@
 			(uuid "82ebcffd-401f-43da-8f48-e98891055368")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR019")
 					(unit 1)
@@ -7945,7 +7945,7 @@
 			(uuid "fa7ef860-2bbc-45a0-b7a7-0bab471adc00")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR029")
 					(unit 1)
@@ -8213,7 +8213,7 @@
 			(uuid "1bd7d8af-9dab-457e-b8a0-f81c172dc19d")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "U1")
 					(unit 1)
@@ -8295,7 +8295,7 @@
 			(uuid "4fec3d4b-2a86-4cc3-b4d0-e7a3363ec688")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C7")
 					(unit 1)
@@ -8373,7 +8373,7 @@
 			(uuid "18ad0761-f2b3-482e-ad84-8a5cd108f31b")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR034")
 					(unit 1)
@@ -8451,7 +8451,7 @@
 			(uuid "cd62e08a-8346-4fc0-9246-cd8ca2358f17")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR041")
 					(unit 1)
@@ -8529,7 +8529,7 @@
 			(uuid "fd584372-2ef2-4dc1-a6ae-aad7a8abacf2")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR038")
 					(unit 1)
@@ -8607,7 +8607,7 @@
 			(uuid "50cc1922-af81-4c3d-bd16-67f6b096f661")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR020")
 					(unit 1)
@@ -8685,7 +8685,7 @@
 			(uuid "fc40701c-b7aa-4c27-875c-1a9942fad599")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR028")
 					(unit 1)
@@ -8765,7 +8765,7 @@
 			(uuid "ae9abe71-4809-435a-9055-c81a369bbb39")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R2")
 					(unit 1)
@@ -8842,7 +8842,7 @@
 			(uuid "3966cf55-b377-48d1-8380-b227aa644d86")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR032")
 					(unit 1)
@@ -8923,7 +8923,7 @@
 			(uuid "40e6a6e5-a6c9-4f35-9b9c-747fc3e40c3a")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C2")
 					(unit 1)
@@ -9004,7 +9004,7 @@
 			(uuid "c58dd274-4423-413d-b0d9-c39d97d4d090")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C1")
 					(unit 1)
@@ -9083,7 +9083,7 @@
 			(uuid "81ff8866-8346-43d8-95d1-2ad43ddbb79e")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR030")
 					(unit 1)
@@ -9163,7 +9163,7 @@
 			(uuid "bcd1c27a-08dc-43c1-8675-be6778b960ce")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R4")
 					(unit 1)
@@ -9241,7 +9241,7 @@
 			(uuid "8deac88c-2541-46ed-beb6-a1858b5e7b59")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR036")
 					(unit 1)
@@ -9323,7 +9323,7 @@
 			(uuid "d4db4614-a5b2-4799-839a-64cbca362404")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "C6")
 					(unit 1)
@@ -9401,7 +9401,7 @@
 			(uuid "2faed6cb-4c2b-473f-b803-d57a6e6fadf3")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR01")
 					(unit 1)
@@ -9479,7 +9479,7 @@
 			(uuid "c7bfe3e9-2e8f-4e48-8a11-a75c68c37f15")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR045")
 					(unit 1)
@@ -9558,7 +9558,7 @@
 			(uuid "ac5e8fc4-c249-4a0e-aaef-8825971205c3")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R9")
 					(unit 1)
@@ -9638,7 +9638,7 @@
 			(uuid "eb0f3948-7b5c-419e-9a74-8afc1ff37df7")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "J2")
 					(unit 1)
@@ -9716,7 +9716,7 @@
 			(uuid "1211c3bf-da4d-44f8-91a3-45c03d893358")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR08")
 					(unit 1)
@@ -9798,7 +9798,7 @@
 			(uuid "11599edf-af03-41fe-8d40-13e8730174a7")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R3")
 					(unit 1)
@@ -9876,7 +9876,7 @@
 			(uuid "293c2ce0-18b4-4018-a412-1f2b8347c035")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR047")
 					(unit 1)
@@ -9955,7 +9955,7 @@
 			(uuid "bbb4281b-d7eb-4fcf-9dea-68fe28aa12df")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "R7")
 					(unit 1)
@@ -10033,7 +10033,7 @@
 			(uuid "bf9a0c8d-b07d-4998-b739-20d9620d1725")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR042")
 					(unit 1)
@@ -10111,7 +10111,7 @@
 			(uuid "582ed592-1643-4a9c-9204-62bd134d7aef")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR031")
 					(unit 1)
@@ -10188,7 +10188,7 @@
 			(uuid "e5c8d187-8d05-4ce8-bc5f-d547523c5227")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR02")
 					(unit 1)
@@ -10266,7 +10266,7 @@
 			(uuid "0559b821-89bb-452d-b6e7-2e68148be680")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR027")
 					(unit 1)
@@ -10346,7 +10346,7 @@
 			(uuid "74ff6ada-db15-4735-b982-12431cc51628")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "J1")
 					(unit 1)
@@ -10471,7 +10471,7 @@
 			(uuid "f4a80821-498a-4dbb-a99b-4e9d36a46c93")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "U3")
 					(unit 1)
@@ -10549,7 +10549,7 @@
 			(uuid "7d68ad73-1812-4fe1-bca9-0e32802b270b")
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(reference "#PWR046")
 					(unit 1)
@@ -10596,7 +10596,7 @@
 			)
 		)
 		(instances
-			(project "OBC_BOARD-V0.1"
+			(project "obc"
 				(path "/5ac93bd7-40e0-43d4-a63b-ad562fa6459a"
 					(page "2")
 				)

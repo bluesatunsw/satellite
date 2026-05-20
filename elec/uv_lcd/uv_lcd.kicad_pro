@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -257,7 +257,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NEW LED driver.kicad_pro",
+    "filename": "uv_lcd.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -424,9 +424,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "NEW LED driver.kicad_sch",
-        "name": "NEW LED driver",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "filename": "uv_lcd.kicad_sch",
+        "name": "uv_lcd",
+        "uuid": "5f77cd95-8e8a-4e4c-aa01-f8c74374b17f"
       }
     ],
     "used_designators": "",
@@ -435,7 +435,7 @@
   "sheets": [
     [
       "5f77cd95-8e8a-4e4c-aa01-f8c74374b17f",
-      "Root"
+      "uv_lcd"
     ]
   ],
   "text_variables": {},
