@@ -429,13 +429,21 @@
         "uuid": "5f77cd95-8e8a-4e4c-aa01-f8c74374b17f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R1-3,C1-7,TPS923650/1_SOT\\-2-3,RSNS1,RFILT1,#PWR4-14,CCOMP1,J2,CFILT1,D2-19,RDAMP1,3535_UV_LED17-32,CIn1,COUT1,CSNS1,CVCC1,CVIN1,RCOMP1,L2-3",
     "variants": []
   },
   "sheets": [
     [
       "5f77cd95-8e8a-4e4c-aa01-f8c74374b17f",
       "uv_lcd"
+    ],
+    [
+      "2496067e-6d04-4d3e-9831-8b3ac98cad8e",
+      "led_driver_1"
+    ],
+    [
+      "106f74ca-67b0-436b-ae4a-60dabb42d9e9",
+      "led_driver_2"
     ]
   ],
   "text_variables": {},

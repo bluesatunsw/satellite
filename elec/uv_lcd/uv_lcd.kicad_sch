@@ -5045,6 +5045,98 @@
 			)
 		)
 	)
+	(sheet
+		(at 218.44 107.95)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "106f74ca-67b0-436b-ae4a-60dabb42d9e9")
+		(property "Sheetname" "led_driver_2"
+			(at 218.44 107.2384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led_driver_2.kicad_sch"
+			(at 218.44 112.3446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "uv_lcd"
+				(path "/5f77cd95-8e8a-4e4c-aa01-f8c74374b17f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 212.09 88.9)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2496067e-6d04-4d3e-9831-8b3ac98cad8e")
+		(property "Sheetname" "led_driver_1"
+			(at 212.09 88.1884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led_driver_1.kicad_sch"
+			(at 212.09 93.2946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "uv_lcd"
+				(path "/5f77cd95-8e8a-4e4c-aa01-f8c74374b17f"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
